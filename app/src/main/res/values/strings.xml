@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="file_baru">Note Baru</string>
+    <string name="buka_file">Buka Note</string>
+    <string name="simpan_file">Simpan Note</string>
+    <string name="judul">judul</string>
+    <string name="konten">tulis isi note</string>
+
+</resources>
